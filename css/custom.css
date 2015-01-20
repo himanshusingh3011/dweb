@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+    color: #fff;
+    margin-top:0px;
+    background-attachment: scroll;
+    background-image: url(../dodra.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.MSDetails{
+  width:100%;
+  height:200px;
+  background-color: #191919;
+  
+}
